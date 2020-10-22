@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding-left: 0;
+}
+body{
+    background-image: url(picture/bg.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+div{
+    height: 100vh;
+    width: 100vh;
+}
+button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
