@@ -4,5 +4,6 @@ function getQuote(){
     .then(function (quote) {
         console.log(quote)
     })
+    
 }
 getQuote()
