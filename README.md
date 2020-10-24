@@ -1,1 +1,1 @@
-# kayne-west-quote-generator
+# Kanye-west-quote-generator
